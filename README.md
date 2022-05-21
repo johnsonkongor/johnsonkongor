@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Johnson J. Kongor (a prospective Graduate of Google Data Analytics)
+- 👋 Hi, I'm Johnson J. Kongor (a prospective Graduate of Google Data Analytics Training)
 - 👀 I'm interested in data manipulation, visualization and knowledge sharing
 - 🌱 Currently finalizing Google Data Analytics course 8 on Coursera..
 - 💞️ I'm looking forward to collaborating with people with data science mindset ...
